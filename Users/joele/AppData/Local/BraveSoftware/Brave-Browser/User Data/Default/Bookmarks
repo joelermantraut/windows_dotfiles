@@ -1,0 +1,1335 @@
+{
+   "checksum": "b99ffaaf66cd2e19f25936ce0f229559",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13144470578000000",
+                  "guid": "257b2c1e-167b-4b59-a34b-5e47e3f59f80",
+                  "id": "7",
+                  "name": "Graficador de funciones matemáticas | Plotter en línea",
+                  "type": "url",
+                  "url": "http://www.mathe-fa.de/es#result"
+               }, {
+                  "date_added": "13144470583000000",
+                  "guid": "4910c103-05f4-4936-9692-aeffcf8afc63",
+                  "id": "8",
+                  "name": "Mathway | Solucionador de problemas de matemáticas",
+                  "type": "url",
+                  "url": "https://www.mathway.com/es/Algebra"
+               }, {
+                  "date_added": "13144470586000000",
+                  "guid": "84bf4336-80ab-4512-b196-8a92ca036e81",
+                  "id": "9",
+                  "name": "Baskara",
+                  "type": "url",
+                  "url": "http://ecalc.blogspot.com.ar/p/baskara.html"
+               }, {
+                  "date_added": "13138236725000000",
+                  "guid": "1fa47f16-cdde-44f1-ac39-323c13ff526b",
+                  "id": "10",
+                  "name": "Matemáticas",
+                  "type": "url",
+                  "url": "http://www.vitutor.com/"
+               }, {
+                  "date_added": "13145857938000000",
+                  "guid": "30cf768b-0ebe-47df-8d5e-6f57eaa63c75",
+                  "id": "11",
+                  "name": "Wolfram|Alpha: Computational Knowledge Engine",
+                  "type": "url",
+                  "url": "http://www.wolframalpha.com/?source=wordcloud"
+               }, {
+                  "date_added": "13243989717000000",
+                  "guid": "eda05b30-52df-4070-a943-9bde64235099",
+                  "id": "12",
+                  "name": "Editor en línea de ecuaciones LateX",
+                  "type": "url",
+                  "url": "https://www.codecogs.com/latex/eqneditor.php"
+               } ],
+               "date_added": "13251613243516919",
+               "date_modified": "0",
+               "guid": "d2e889e4-4ac6-4579-a721-d65abcab6839",
+               "id": "6",
+               "name": "Matematica",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13246469913000000",
+                  "guid": "1f689c4a-3e48-4fb4-b8fe-3f523dd629cd",
+                  "id": "31",
+                  "name": "Mediciones Definitivas - Hojas de cálculo de Google",
+                  "type": "url",
+                  "url": "https://docs.google.com/spreadsheets/d/1Cdju3sT-J9Fhat3SkRYNWmrxg7AqCkNQ98GxwH_6mws/edit#gid=0"
+               }, {
+                  "date_added": "13245903459000000",
+                  "guid": "4a1f3138-f8fb-4c5a-92f4-9b253564f740",
+                  "id": "32",
+                  "name": "Numpy vs OR-tools (1 BIN).ipynb - Colaboratory",
+                  "type": "url",
+                  "url": "https://colab.research.google.com/drive/1O-SQ-cd6wrWcQKnQO_jcUnD7XMNRAdq5#scrollTo=IybgcZc6QEZj"
+               }, {
+                  "date_added": "13241623176000000",
+                  "guid": "370ce21d-32c2-494b-a5fd-1ad39898da8a",
+                  "id": "33",
+                  "name": "PSO/Mochila (carpeta compartida) - Google Drive",
+                  "type": "url",
+                  "url": "https://drive.google.com/drive/folders/1HZ1FCAKg2_YrO6jyP-duQvYvZyAxvnAp"
+               }, {
+                  "date_added": "13234416831000000",
+                  "guid": "030a27e8-4211-485e-9eed-a87502f54cfb",
+                  "id": "34",
+                  "name": "jiparraguirre / ultimate-pso — Bitbucket",
+                  "type": "url",
+                  "url": "https://bitbucket.org/jiparraguirre/ultimate-pso/src/master/"
+               }, {
+                  "date_added": "13247934497000000",
+                  "guid": "253c02be-60a1-40bd-9db0-bdf39ed73d41",
+                  "id": "35",
+                  "name": "Copia de PSO-Jax Knapspack Example Code - Colaboratory",
+                  "type": "url",
+                  "url": "https://colab.research.google.com/drive/14tkLdDy9pcHRIFDQuXNGya966gGvJRAH#scrollTo=99dcSqSCvGf-"
+               }, {
+                  "date_added": "13249158564000000",
+                  "guid": "1e146e4f-0165-4064-a9d3-3450218f20cf",
+                  "id": "36",
+                  "name": "BHI-Research/PSO-JAX: An accelerated Particle Swarm Optimization tool that uses JAX key component",
+                  "type": "url",
+                  "url": "https://github.com/BHI-Research/PSO-JAX"
+               }, {
+                  "children": [ {
+                     "date_added": "13248297150000000",
+                     "guid": "18352bcd-8d65-4b18-a6d0-43089c72398e",
+                     "id": "38",
+                     "name": "How JAX primitives work.ipynb - Colaboratory",
+                     "type": "url",
+                     "url": "https://colab.research.google.com/github/google/jax/blob/master/docs/notebooks/How_JAX_primitives_work.ipynb#scrollTo=tbOF0LB0EMne"
+                  }, {
+                     "date_added": "13248747425000000",
+                     "guid": "657c57f3-1c6f-45b0-a66b-cf05b5615ad3",
+                     "id": "39",
+                     "name": "jax.lax package — JAX documentation",
+                     "type": "url",
+                     "url": "https://jax.readthedocs.io/en/latest/jax.lax.html#parallel-operators"
+                  }, {
+                     "date_added": "13249065059000000",
+                     "guid": "417aa611-bbde-479c-8786-eb5b00afc787",
+                     "id": "40",
+                     "name": "Pmap Cookbook - Colaboratory",
+                     "type": "url",
+                     "url": "https://colab.research.google.com/github/google/jax/blob/master/cloud_tpu_colabs/Pmap_Cookbook.ipynb"
+                  } ],
+                  "date_added": "13251613243517559",
+                  "date_modified": "0",
+                  "guid": "4f06bafc-b02f-4bda-8322-7921eb815648",
+                  "id": "37",
+                  "name": "Paralelización",
+                  "type": "folder"
+               }, {
+                  "date_added": "13250641073000000",
+                  "guid": "b4b22a0c-7e5c-4152-af84-850e549a95a2",
+                  "id": "41",
+                  "name": "Efficient and Effective Practical Algorithms for the Set-Covering Problem Qi Yang, Jamie McPeek, Adam Nofsinger Department of Computer Science and Software. - ppt download",
+                  "type": "url",
+                  "url": "https://slideplayer.com/slide/6377863/"
+               } ],
+               "date_added": "13251613243517415",
+               "date_modified": "0",
+               "guid": "5bfc75b4-cc31-449e-9604-4907846b20bd",
+               "id": "30",
+               "name": "Investigacion",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13262585296254842",
+                  "guid": "6651a977-c9ee-499b-8482-5b8d34124af8",
+                  "id": "206",
+                  "name": "2021-Informática-I-notas - Hojas de cálculo de Google",
+                  "type": "url",
+                  "url": "https://docs.google.com/spreadsheets/d/1K0Zk8mdH94C1y48veT_ljk8JgVPZ3TGQz2ywF8f4W1M/edit?ts=605c9e2c#gid=484569269"
+               }, {
+                  "date_added": "13247018512000000",
+                  "guid": "ae4e6cb6-6732-450c-ad90-cc1280f423a8",
+                  "id": "44",
+                  "name": "Repl.it - The collaborative browser based IDE",
+                  "type": "url",
+                  "url": "https://repl.it/"
+               } ],
+               "date_added": "13251613243517661",
+               "date_modified": "13262826877359254",
+               "guid": "4f035a0e-a30a-4924-8251-b8562f5c170c",
+               "id": "42",
+               "name": "Info I",
+               "type": "folder"
+            }, {
+               "date_added": "13139448299000000",
+               "guid": "9115123a-0c92-4d01-9c9e-0612fd4cd427",
+               "id": "45",
+               "name": "UTN FRBB Aula Virtual",
+               "type": "url",
+               "url": "http://www.frbb.utn.edu.ar/aulavirtual/"
+            }, {
+               "date_added": "13143844128000000",
+               "guid": "774e1c09-5b90-4976-a913-19409f43e092",
+               "id": "46",
+               "name": "Menú de Alumnos",
+               "type": "url",
+               "url": "http://www.frbb.utn.edu.ar/sysacad/menuAlumno.asp"
+            }, {
+               "date_added": "13226695715000000",
+               "guid": "0c29a2fe-c8e0-49cf-9295-e4e74d90b863",
+               "id": "47",
+               "name": "Plan de la Carrera | Ingeniería Electrónica",
+               "type": "url",
+               "url": "https://www.frbb.utn.edu.ar/frbb/info/pages/electronica01.html"
+            }, {
+               "children": [ {
+                  "date_added": "13256462000408889",
+                  "guid": "3fa49be8-7075-4da9-9343-eb8093c9b75f",
+                  "id": "202",
+                  "name": "How to build an arduino energy monitor | Archived Forum",
+                  "type": "url",
+                  "url": "https://openenergymonitor.org/forum-archive/node/58.html"
+               } ],
+               "date_added": "13256461998527901",
+               "date_modified": "13256462002392070",
+               "guid": "dd001807-851f-4222-92b0-b1f712050b5d",
+               "id": "201",
+               "name": "Medidas",
+               "type": "folder"
+            }, {
+               "date_added": "13262826877359254",
+               "guid": "3957ff03-32b9-4edd-9a87-732a148d191e",
+               "id": "208",
+               "name": "Comprender FFTs y Funciones Ventana - NI",
+               "type": "url",
+               "url": "https://www.ni.com/es-cr/innovations/white-papers/06/understanding-ffts-and-windowing.html"
+            } ],
+            "date_added": "13251613243516616",
+            "date_modified": "13263195482410384",
+            "guid": "7a5fb23f-dfc4-4750-b30e-3df6735fcd28",
+            "id": "5",
+            "name": "UTN",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13222070850000000",
+                  "guid": "a609e552-128d-4cdb-be34-0a5d6530ed15",
+                  "id": "50",
+                  "name": "EW Converter",
+                  "type": "url",
+                  "url": "https://ewconverter.com/"
+               }, {
+                  "date_added": "13222160137000000",
+                  "guid": "51d23201-397b-4150-b8bf-d7cedf9ddca9",
+                  "id": "51",
+                  "name": "Creating your own Shazam (identify songs) with Python through audio fingerprinting in Ubuntu 18.04 | Our Code World",
+                  "type": "url",
+                  "url": "https://ourcodeworld.com/articles/read/973/creating-your-own-shazam-identify-songs-with-python-through-audio-fingerprinting-in-ubuntu-18-04"
+               }, {
+                  "date_added": "13222412347000000",
+                  "guid": "e2e48da1-8eee-4688-a46d-78b69a3044d8",
+                  "id": "52",
+                  "name": "ProPresenter Cool Tips and Hot Tricks Volume One - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=Sm7Ne-AHLtU"
+               } ],
+               "date_added": "13251613243517894",
+               "date_modified": "0",
+               "guid": "2d806bd4-e6dd-40e6-81f8-85b41939a47f",
+               "id": "49",
+               "name": "Proyeccion",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13221545575000000",
+                  "guid": "d18de7e5-01ea-4768-8ed9-fb458221c3fb",
+                  "id": "54",
+                  "name": "10 técnicas para crear y utilizar patches con software en alabanza",
+                  "type": "url",
+                  "url": "https://tecnoiglesia.com/2019/12/10-tecnicas-para-crear-y-utilizar-patches-con-software-en-alabanza/"
+               }, {
+                  "date_added": "13221550864000000",
+                  "guid": "60a08ff3-101f-4b93-b25b-d7edc088914b",
+                  "id": "55",
+                  "name": "Tres Ventajas de Utilizar Main Stage 3",
+                  "type": "url",
+                  "url": "https://tecnoiglesia.com/2019/12/tres-ventajas-de-utilizar-main-stage-3/"
+               } ],
+               "date_added": "13251613243517982",
+               "date_modified": "0",
+               "guid": "e5f99987-2dc6-4fe9-a315-faa076ca6ed9",
+               "id": "53",
+               "name": "Sonido",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13224659920000000",
+                  "guid": "e3e3aee6-f231-481d-ae17-50dda162d968",
+                  "id": "57",
+                  "name": "Adding a Stylish Lightbox Effect to the WordPress Gallery",
+                  "type": "url",
+                  "url": "https://www.sitepoint.com/adding-a-stylish-lightbox-effect-to-the-wordpress-gallery/"
+               } ],
+               "date_added": "13251613243518034",
+               "date_modified": "0",
+               "guid": "107e7a1f-e8be-48a4-8510-ffa1c4daaff7",
+               "id": "56",
+               "name": "WEB",
+               "type": "folder"
+            }, {
+               "date_added": "13252810378278235",
+               "guid": "93884947-f46c-4af6-bf5c-63d09a4e24c3",
+               "id": "198",
+               "name": "YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/"
+            } ],
+            "date_added": "13251613243517779",
+            "date_modified": "13256461976552137",
+            "guid": "311003a1-95a6-4149-9063-21fea8588b2f",
+            "id": "48",
+            "name": "Multimedia",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13246649925000000",
+               "guid": "95162522-c9b5-4d49-b2b7-05820f6f1ade",
+               "id": "59",
+               "name": "Sensor Infrarrojo con Arduino | Ingenia",
+               "type": "url",
+               "url": "https://ingeniaoaxaca.com/sensor-infrarrojo-con-arduino/"
+            }, {
+               "date_added": "13246330037000000",
+               "guid": "10d9c902-1ea8-4503-9d3a-5baef0ff3cd2",
+               "id": "60",
+               "name": "Logiciels - Librairies for Proteus",
+               "type": "url",
+               "url": "http://www.sonelec-musique.com/logiciels_proteus_lib_en.html"
+            }, {
+               "date_added": "13245433408000000",
+               "guid": "ee2df6b1-ab5a-41b3-a7d8-a2033c71f55d",
+               "id": "61",
+               "name": "Filtros Activos",
+               "type": "url",
+               "url": "http://www.unet.edu.ve/~ielectro/Filtros%20Activos.htm"
+            }, {
+               "date_added": "13245416522000000",
+               "guid": "584e7127-2a18-4562-8c34-5e8e9fbdb7b8",
+               "id": "62",
+               "name": "Microsoft Word - Practica 3.doc",
+               "type": "url",
+               "url": "http://dea.unsj.edu.ar/sredes/filtrosactivos.pdf"
+            }, {
+               "date_added": "13245251174000000",
+               "guid": "cd4fcb3a-c617-4bca-98f7-c7af3bc06023",
+               "id": "63",
+               "name": "Index of /files/pspice/libs",
+               "type": "url",
+               "url": "http://robustdesignconcepts.com/files/pspice/libs/"
+            }, {
+               "date_added": "13193486080000000",
+               "guid": "95fb1ee2-5e14-47b9-9d6f-d8263d87fd20",
+               "id": "64",
+               "name": "DIY Arduino RC Transmitter - HowToMechatronics",
+               "type": "url",
+               "url": "https://howtomechatronics.com/projects/diy-arduino-rc-transmitter/"
+            }, {
+               "date_added": "13231535927000000",
+               "guid": "cb6d567e-6f15-4b3e-9c1a-b3c1fe7b7dac",
+               "id": "65",
+               "name": "Logiciels - Librairies for Proteus",
+               "type": "url",
+               "url": "https://www.sonelec-musique.com/logiciels_proteus_lib_en.html"
+            }, {
+               "date_added": "13239761523000000",
+               "guid": "fb94b143-9a19-42d9-ae2f-cf2b53230ac8",
+               "id": "66",
+               "name": "Controla una matriz de LEDs con Arduino con Charlie Plexing",
+               "type": "url",
+               "url": "https://programarfacil.com/blog/controlar-matriz-de-leds-con-arduino/"
+            }, {
+               "date_added": "13247709153000000",
+               "guid": "a53f7500-26b9-45b0-b78f-dbfe79f5295c",
+               "id": "67",
+               "name": "Datasheets, Electronic Parts, Components, Search - Octopart",
+               "type": "url",
+               "url": "https://octopart.com/"
+            }, {
+               "date_added": "13250901971000000",
+               "guid": "9d02efa0-78bf-4853-ad01-d6efe41f5150",
+               "id": "68",
+               "name": "Lower Voltage Methods Other Than Voltage Dividing - Electrical Engineering Stack Exchange",
+               "type": "url",
+               "url": "https://electronics.stackexchange.com/questions/154553/lower-voltage-methods-other-than-voltage-dividing"
+            } ],
+            "date_added": "13251613243518061",
+            "date_modified": "0",
+            "guid": "97551d45-84b6-47f7-acc5-c7736ff07c83",
+            "id": "58",
+            "name": "Electronica",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13240017752000000",
+                  "guid": "3665bc1d-d31a-4292-8f92-f1d8093dd4a2",
+                  "id": "71",
+                  "name": "Pandoc - Getting started with pandoc",
+                  "type": "url",
+                  "url": "https://pandoc.org/getting-started.html"
+               }, {
+                  "date_added": "13240018834000000",
+                  "guid": "4b134a82-4a57-484b-bab3-2ff2dded7b2a",
+                  "id": "72",
+                  "name": "Datamash Examples - GNU Project - Free Software Foundation",
+                  "type": "url",
+                  "url": "https://www.gnu.org/software/datamash/examples/#example_files"
+               }, {
+                  "date_added": "13249134164000000",
+                  "guid": "648196f5-1771-4a50-88a1-17d192081e86",
+                  "id": "73",
+                  "name": "chubin/cheat.sh: the only cheat sheet you need",
+                  "type": "url",
+                  "url": "https://github.com/chubin/cheat.sh"
+               } ],
+               "date_added": "13251613243518487",
+               "date_modified": "0",
+               "guid": "88e938dd-501d-41e9-9d8d-5d91381e6a3b",
+               "id": "70",
+               "name": "Linux",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13242425537000000",
+                  "guid": "58fd8854-6118-44cc-b544-ae1588ffc93b",
+                  "id": "75",
+                  "name": "Cómo desactivar Windows Defender por completo",
+                  "type": "url",
+                  "url": "https://www.genbeta.com/paso-a-paso/como-desactivar-windows-defender-completo"
+               }, {
+                  "date_added": "13242425397000000",
+                  "guid": "75d600ff-9410-4f6c-ae93-142d3bd48dd8",
+                  "id": "76",
+                  "name": "Cómo desactivar Cortana en Windows 10",
+                  "type": "url",
+                  "url": "https://www.genbeta.com/windows/adios-cortana-como-desactivar-cortana-en-windows-10"
+               }, {
+                  "date_added": "13239341517000000",
+                  "guid": "9d955800-7c57-4e19-8822-d45ea50aa766",
+                  "id": "77",
+                  "name": "Optimizar Dispositivo SSD en Windows 10 - Mejorar rendimiento SSD",
+                  "type": "url",
+                  "url": "https://hardzone.es/2016/01/24/tutorial-optimiza-rendimiento-ssd-windows-10/"
+               }, {
+                  "date_added": "13230533220000000",
+                  "guid": "de563830-07bd-40ed-a0c9-94dcb6699db2",
+                  "id": "78",
+                  "name": "Windows 7, al cien por cien: trucos para optimizar el sistema",
+                  "type": "url",
+                  "url": "https://www.pcactual.com/noticias/trucos/windows-cien-cien-trucos-para-optimizar-sistema-2_2661"
+               }, {
+                  "date_added": "13226209018000000",
+                  "guid": "d87de402-8cb3-4671-ae7e-d0c9552edaf0",
+                  "id": "79",
+                  "name": "Cómo optimizar el funcionamiento de nuestro SSD en Windows 8",
+                  "type": "url",
+                  "url": "https://www.xatakawindows.com/bienvenidoawindows8/como-optimizar-el-funcionamiento-de-nuestro-ssd-en-windows-8#firmware"
+               } ],
+               "date_added": "13251613243518565",
+               "date_modified": "0",
+               "guid": "06fa4db8-24c8-477c-9942-46b1325816a6",
+               "id": "74",
+               "name": "Windows",
+               "type": "folder"
+            }, {
+               "date_added": "13239011082000000",
+               "guid": "0f1a02fd-8b26-47e4-bcf8-21c20c55dc6b",
+               "id": "80",
+               "name": "Cómo instalar MacOS en Windows con VirtualBox | Neoguias",
+               "type": "url",
+               "url": "https://www.neoguias.com/instalar-macos-windows-virtualbox/"
+            }, {
+               "date_added": "13226208867000000",
+               "guid": "08eafa9c-032d-4eac-a775-c8d151d6d436",
+               "id": "81",
+               "name": "Generalized Router Configuration Instructions – OpenDNS",
+               "type": "url",
+               "url": "https://support.opendns.com/hc/en-us/articles/228006047-Generalized-Router-Configuration-Instructions"
+            }, {
+               "date_added": "13247550383000000",
+               "guid": "8135622d-5cec-4202-a88f-81f1bf711bcd",
+               "id": "82",
+               "name": "Pug! Redescubriendo como codear HTML | by Alejandra Camacho | Medium",
+               "type": "url",
+               "url": "https://medium.com/@alexcamachogz/pug-redescubriendo-como-codear-html-4f40fa5617ef"
+            }, {
+               "date_added": "13247767933000000",
+               "guid": "33d5d0a1-aeac-47df-8b7a-bc2d83a3f740",
+               "id": "83",
+               "name": "Pull Request con Git",
+               "type": "url",
+               "url": "https://desarrolloweb.com/articulos/pull-request-git.html"
+            }, {
+               "date_added": "13247810709000000",
+               "guid": "199ad383-6231-460c-8de0-e1b36cc72e1f",
+               "id": "84",
+               "name": "A Jade Tutorial for Beginners - SitePoint",
+               "type": "url",
+               "url": "https://www.sitepoint.com/jade-tutorial-for-beginners/"
+            }, {
+               "date_added": "13247944988000000",
+               "guid": "5c06dd83-f908-4c0e-a7aa-693c37d0ee77",
+               "id": "85",
+               "name": "HackerRank",
+               "type": "url",
+               "url": "https://www.hackerrank.com/"
+            } ],
+            "date_added": "13251613243518380",
+            "date_modified": "0",
+            "guid": "e6220e18-f5da-4f08-bf83-91584f8a910e",
+            "id": "69",
+            "name": "Informatica",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13226208706000000",
+                  "guid": "f082f2e6-11ff-45db-8014-1760ada6aa16",
+                  "id": "88",
+                  "name": "Neural networks and deep learning",
+                  "type": "url",
+                  "url": "http://neuralnetworksanddeeplearning.com/chap1.html"
+               }, {
+                  "date_added": "13226208712000000",
+                  "guid": "d61d4fe2-a6e8-4842-a1b0-b7ad19d23022",
+                  "id": "89",
+                  "name": "50 Popular Python open-source projects on GitHub in 2018 - By",
+                  "type": "url",
+                  "url": "https://hackernoon.com/50-popular-python-open-source-projects-on-github-in-2018-c750f9bf56a0"
+               }, {
+                  "date_added": "13227855586000000",
+                  "guid": "233a021d-ee0a-4900-b55c-78bca4691157",
+                  "id": "90",
+                  "name": "Programación para ingeniería y ciencias – Un blog dedicado a la programación con Python, Matlab y R con fines científicos",
+                  "type": "url",
+                  "url": "https://programandomate.wordpress.com/"
+               }, {
+                  "date_added": "13227856865000000",
+                  "guid": "8b290687-8344-4d9c-9515-d79212690f7d",
+                  "id": "91",
+                  "name": "SQLite Viewer",
+                  "type": "url",
+                  "url": "https://inloop.github.io/sqlite-viewer/"
+               }, {
+                  "date_added": "13228025484000000",
+                  "guid": "11d9537b-b531-4d94-8efb-773f6d0ba001",
+                  "id": "92",
+                  "name": "Instalar y usar virtualenv con Python 3 – Centro de Ayuda",
+                  "type": "url",
+                  "url": "https://help.dreamhost.com/hc/es/articles/115000695551-Instalar-y-usar-virtualenv-con-Python-3"
+               } ],
+               "date_added": "13251613243518932",
+               "date_modified": "0",
+               "guid": "56457bdc-757b-4d5e-8d50-ae4f03fb9ec7",
+               "id": "87",
+               "name": "Python",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13243899995000000",
+                  "guid": "d2c4b621-8260-4f2d-8796-14ab46923058",
+                  "id": "94",
+                  "name": "Easing Functions Cheat Sheet",
+                  "type": "url",
+                  "url": "https://easings.net/"
+               }, {
+                  "date_added": "13226208798000000",
+                  "guid": "17df6802-72b5-497b-80a5-3e15e5ea5282",
+                  "id": "95",
+                  "name": "75 Pasos para hacer SEO y posicionamiento en buscadores YA",
+                  "type": "url",
+                  "url": "http://brunovd.com/75-pasos-para-seo-y-posicionamiento-en-buscadores/"
+               }, {
+                  "date_added": "13101018352000000",
+                  "guid": "b83e5239-8c55-4fa6-8d91-ac881da792aa",
+                  "id": "96",
+                  "name": "Create your Google Sitemap Online - XML Sitemaps Generator",
+                  "type": "url",
+                  "url": "https://www.xml-sitemaps.com/"
+               }, {
+                  "date_added": "13094717091000000",
+                  "guid": "accb3806-5683-45b5-a533-a5bff9c9ae50",
+                  "id": "97",
+                  "name": "Diseño Web Centrado en el Usuario: Usabilidad y Arquitectura de la Información - Hipertext - ( UPF )",
+                  "type": "url",
+                  "url": "https://www.upf.edu/hipertextnet/numero-2/diseno_web.html"
+               }, {
+                  "date_added": "13149264029000000",
+                  "guid": "2b2b8e58-778c-4ca5-839a-d902b899f9da",
+                  "id": "98",
+                  "name": "Regístrate por un hosting gratuito. ¡Registra tu sitio GRATIS!",
+                  "type": "url",
+                  "url": "https://ar.000webhost.com/registro-sitio-gratis"
+               } ],
+               "date_added": "13251613243519070",
+               "date_modified": "0",
+               "guid": "a65c3af4-d146-4af2-92b2-bb1a6483ef1d",
+               "id": "93",
+               "name": "Web",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13226208764000000",
+                  "guid": "ac53cf14-c130-42bf-95ca-12cc56699e28",
+                  "id": "100",
+                  "name": "electron-installer-windows - npm",
+                  "type": "url",
+                  "url": "https://www.npmjs.com/package/electron-installer-windows"
+               }, {
+                  "date_added": "13226724179000000",
+                  "guid": "e3ed2773-1ad9-4ae1-9039-0b01dc541577",
+                  "id": "101",
+                  "name": "Documentation | Electron",
+                  "type": "url",
+                  "url": "https://www.electronjs.org/docs"
+               } ],
+               "date_added": "13251613243519190",
+               "date_modified": "0",
+               "guid": "116786c1-c036-410a-8972-31638f08e210",
+               "id": "99",
+               "name": "Electron",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13240017190000000",
+                  "guid": "b73ae728-0a66-4b92-9ed5-bd41fb495dbd",
+                  "id": "103",
+                  "name": "Apache Cordova",
+                  "type": "url",
+                  "url": "https://cordova.apache.org/#getstarted"
+               }, {
+                  "date_added": "13240019417000000",
+                  "guid": "208e7b1a-e851-491b-af75-db70e3f291a7",
+                  "id": "104",
+                  "name": "Using Cordova to Create Bluetooth Mobile App (for Temperature Sensor) : 5 Steps (with Pictures) - Instructables",
+                  "type": "url",
+                  "url": "https://www.instructables.com/id/Using-Cordova-to-Create-Bluetooth-Mobile-App-for-T/"
+               } ],
+               "date_added": "13251613243519233",
+               "date_modified": "0",
+               "guid": "27be9001-f499-49e1-80f3-fa98a41fdef2",
+               "id": "102",
+               "name": "Cordova",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13239820861000000",
+                  "guid": "4ce36054-147f-4fb2-a835-537088d30e07",
+                  "id": "106",
+                  "name": "Trucos y tretas en Excel VBA para programadores - Rankia",
+                  "type": "url",
+                  "url": "https://www.rankia.com.ar/blog/comstar/1021298-trucos-tretas-excel-vba-para-programadores"
+               }, {
+                  "date_added": "13239821873000000",
+                  "guid": "dca1835b-91d6-4759-9556-0462ca914610",
+                  "id": "107",
+                  "name": "Cómo crear un DASHBOARD interactivo en Excel en menos de 10 min! - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=Oanr41Tz28U"
+               } ],
+               "date_added": "13251613243519287",
+               "date_modified": "0",
+               "guid": "4247f537-35e9-4a01-8385-3569434ed856",
+               "id": "105",
+               "name": "Excel",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13226208859000000",
+                  "guid": "1a4ab34d-6bbb-4402-9d1d-741441494f72",
+                  "id": "109",
+                  "name": "Lista de comandos de Windows - CCM",
+                  "type": "url",
+                  "url": "https://es.ccm.net/faq/2098-lista-de-comandos-de-windows"
+               }, {
+                  "date_added": "13146208601000000",
+                  "guid": "318e309b-83b6-4cf7-94da-b16ff00623fe",
+                  "id": "110",
+                  "name": "Lista de Comandos en GIT",
+                  "type": "url",
+                  "url": "https://gist.github.com/dasdo/9ff71c5c0efa037441b6"
+               }, {
+                  "date_added": "13083481017000000",
+                  "guid": "2d07c332-ce68-4fb7-9915-53b0d1138036",
+                  "id": "111",
+                  "name": "Comandos útiles para Linux",
+                  "type": "url",
+                  "url": "http://blog.desdelinux.net/comandos-utiles-para-linux/"
+               }, {
+                  "date_added": "13227938278000000",
+                  "guid": "cb50d897-369a-4c7e-ba1a-bef70a2cab3e",
+                  "id": "112",
+                  "name": "GitHub - alebcay/awesome-shell: A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.",
+                  "type": "url",
+                  "url": "https://github.com/alebcay/awesome-shell"
+               }, {
+                  "date_added": "13146560100000000",
+                  "guid": "02481c4f-9d15-4b54-8776-6501c47b5946",
+                  "id": "113",
+                  "name": "My simply Git Cheatsheet",
+                  "type": "url",
+                  "url": "https://gist.github.com/hofmannsven/6814451"
+               }, {
+                  "date_added": "13240018883000000",
+                  "guid": "fcc56bc0-9acc-48f2-adfb-0fce989d3cce",
+                  "id": "114",
+                  "name": "GitHub - herrbischoff/awesome-command-line-apps: Use your terminal shell to do awesome things.",
+                  "type": "url",
+                  "url": "https://github.com/herrbischoff/awesome-command-line-apps"
+               }, {
+                  "date_added": "13239937348000000",
+                  "guid": "974b6efa-8833-490d-9c16-0d136d65b114",
+                  "id": "115",
+                  "name": "Terminal Cheat Sheet · GitHub",
+                  "type": "url",
+                  "url": "https://gist.github.com/cferdinandi/ef665330286fd5d7127d"
+               } ],
+               "date_added": "13251613243519347",
+               "date_modified": "0",
+               "guid": "c32c7941-1e27-4e5f-88f8-7207d8bfcd27",
+               "id": "108",
+               "name": "Command Line",
+               "type": "folder"
+            }, {
+               "date_added": "13244138491000000",
+               "guid": "fb818373-73ef-4d91-b765-255bb7ba8836",
+               "id": "116",
+               "name": "Curso Javascript para Principiantes - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=RqQ1d1qEWlE"
+            }, {
+               "date_added": "13241326688000000",
+               "guid": "ca395528-f2f9-4d26-a97e-8e1838878485",
+               "id": "117",
+               "name": "Programmer Dvorak typing tutorial, learn to type Programmer Dvorak",
+               "type": "url",
+               "url": "http://programmer-dvorak.appspot.com/#:~:text=Programmer%20Dvorak%20is%20a%20modification,moves%20digits%20a%20bit%20away).&text=Dvorak%20layout%20was%20invented%20in,Dvorak%20after%20years%20of%20research."
+            }, {
+               "date_added": "13247348211000000",
+               "guid": "428a2227-3fea-4e5a-9a1f-46731591019b",
+               "id": "118",
+               "name": "A successful Git branching model » nvie.com",
+               "type": "url",
+               "url": "https://nvie.com/posts/a-successful-git-branching-model/"
+            } ],
+            "date_added": "13251613243518823",
+            "date_modified": "0",
+            "guid": "cbd36022-6a3d-488c-9252-3b5a9edaf08b",
+            "id": "86",
+            "name": "Programacion",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13242692579000000",
+                  "guid": "1eaaaca0-0443-4e60-87b3-1ebfac72e0bc",
+                  "id": "121",
+                  "name": "Free Icons | Font Awesome",
+                  "type": "url",
+                  "url": "https://fontawesome.com/icons?d=gallery&m=free"
+               }, {
+                  "date_added": "13237012057000000",
+                  "guid": "464ef80f-d03f-4d2a-8380-307d41dd47e5",
+                  "id": "122",
+                  "name": "Las fuentes tipográficas que usan famosas marcas en sus logos | paredro.com",
+                  "type": "url",
+                  "url": "https://www.paredro.com/las-fuentes-tipograficas-usan-famosas-marcas-en-sus-logos/"
+               }, {
+                  "date_added": "13237011925000000",
+                  "guid": "e5d0c4ee-7612-4030-b61d-b6baeac3a5ca",
+                  "id": "123",
+                  "name": "Remove Background from Image – remove.bg",
+                  "type": "url",
+                  "url": "https://www.remove.bg/"
+               }, {
+                  "date_added": "13233029351000000",
+                  "guid": "adefa440-16ed-46d9-a3e4-702b1714e641",
+                  "id": "124",
+                  "name": "Silk – Interactive Generative Art",
+                  "type": "url",
+                  "url": "http://weavesilk.com/"
+               }, {
+                  "date_added": "13233029270000000",
+                  "guid": "e318b03f-113b-42cd-a31e-4c69db58eded",
+                  "id": "125",
+                  "name": "DaFont - Descargar fuentes",
+                  "type": "url",
+                  "url": "https://www.dafont.com/es/"
+               }, {
+                  "date_added": "13231741445000000",
+                  "guid": "1cb73e3b-5218-480f-a4d7-012a1347d218",
+                  "id": "126",
+                  "name": "Google Fonts",
+                  "type": "url",
+                  "url": "https://fonts.google.com/"
+               }, {
+                  "date_added": "13231738664000000",
+                  "guid": "16a691cd-02ac-4412-90f6-8bbb2aeb99bb",
+                  "id": "127",
+                  "name": "Generate - Coolors.co",
+                  "type": "url",
+                  "url": "https://coolors.co/28262c-c6dcf4-00c2fc-1e0053-14248a"
+               }, {
+                  "date_added": "13237013180000000",
+                  "guid": "ae64cd44-e31b-4ddd-b731-ee8453a93177",
+                  "id": "128",
+                  "name": "Calligraphr - Dibuje sus propias fuentes.",
+                  "type": "url",
+                  "url": "https://www.calligraphr.com/es/"
+               }, {
+                  "date_added": "13237014436000000",
+                  "guid": "9b956a35-834a-440b-9573-c3f53f4048d1",
+                  "id": "129",
+                  "name": "AutoDraw",
+                  "type": "url",
+                  "url": "https://www.autodraw.com/"
+               }, {
+                  "date_added": "13237789089000000",
+                  "guid": "a0963347-6f0a-459c-8cae-56296ffc4383",
+                  "id": "130",
+                  "name": "Obtener colores de imagen online",
+                  "type": "url",
+                  "url": "https://pinetools.com/es/obtener-colores-imagen"
+               }, {
+                  "date_added": "13237789089000000",
+                  "guid": "c9b5274e-9a97-468f-a5ba-8313f2efcb33",
+                  "id": "131",
+                  "name": "nvidia-research-mingyuliu.com",
+                  "type": "url",
+                  "url": "http://nvidia-research-mingyuliu.com/gaugan"
+               }, {
+                  "date_added": "13237789089000000",
+                  "guid": "07ee7745-3fa3-485e-962f-5944918e9b8d",
+                  "id": "132",
+                  "name": "Los mensajes secretos detrás del color | Excélsior",
+                  "type": "url",
+                  "url": "http://www.excelsior.com.mx/blog/se-lo-que-estas-pensando/los-mensajes-secretos-detras-del-color/1011851"
+               }, {
+                  "date_added": "13237789089000000",
+                  "guid": "6a7d4279-19ca-4b99-a3a0-71fb801725ed",
+                  "id": "133",
+                  "name": "PSD Gratis, +120.000 archivos de Photoshop gratis",
+                  "type": "url",
+                  "url": "https://www.freepik.es/psd-populares"
+               }, {
+                  "date_added": "13240172922000000",
+                  "guid": "c4344f01-3449-4292-9186-02fdca726718",
+                  "id": "134",
+                  "name": "Imágenes redes sociales 2020: conoce cuál es el tamaño perfecto",
+                  "type": "url",
+                  "url": "https://blog.cool-tabs.com/es/redes-sociales-2020-tamanos/#:~:text=Medidas%20de%20im%C3%A1genes%20para%20WhatsApp,-WhatsApp%20da%20una&text=Imagen%20de%20perfil%3A%2040%20x,px%20%2F%20192%20x%20192%20px."
+               }, {
+                  "date_added": "13248678569000000",
+                  "guid": "b6c4e03c-39e2-4e11-990b-e9d0d66de888",
+                  "id": "135",
+                  "name": "david.li",
+                  "type": "url",
+                  "url": "http://david.li/"
+               }, {
+                  "date_added": "13248679338000000",
+                  "guid": "aa2ac3d7-9c35-4f40-8b30-27690a0250d6",
+                  "id": "136",
+                  "name": "Google Logo - Google Gravity - Gologo, Techydot, Goglogo",
+                  "type": "url",
+                  "url": "https://goglogo.net/"
+               } ],
+               "date_added": "13251613243519688",
+               "date_modified": "0",
+               "guid": "8de34cc0-155d-433b-8bcd-8536c9ebf859",
+               "id": "120",
+               "name": "Diseño",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13237011951000000",
+                  "guid": "57216e7f-4952-4485-80b9-15ab1fe69e91",
+                  "id": "138",
+                  "name": "The Eternal Jukebox",
+                  "type": "url",
+                  "url": "https://eternalbox.dev/jukebox_index.html"
+               }, {
+                  "date_added": "13236665760000000",
+                  "guid": "a11f2fbc-2131-4318-aa8a-ac683a1f3b7c",
+                  "id": "139",
+                  "name": "iLovePDF | Herramientas PDF online gratis",
+                  "type": "url",
+                  "url": "https://www.ilovepdf.com/es"
+               }, {
+                  "date_added": "13236631076000000",
+                  "guid": "0f0026f4-8662-42ad-99df-23d065524279",
+                  "id": "140",
+                  "name": "Descargador de YouTube - Descarga Video y Audio de YouTube",
+                  "type": "url",
+                  "url": "https://www.y2mate.com/es15"
+               }, {
+                  "date_added": "13233029290000000",
+                  "guid": "763056c0-deb7-4d2c-a011-967d60f8a81c",
+                  "id": "141",
+                  "name": "Gnoosic - Discover new Music",
+                  "type": "url",
+                  "url": "https://www.gnoosic.com/"
+               }, {
+                  "date_added": "13237013489000000",
+                  "guid": "7786f391-a7ba-4c56-98c8-67b184aa32f1",
+                  "id": "142",
+                  "name": "Gridzzly.com - Make your own grid paper",
+                  "type": "url",
+                  "url": "http://gridzzly.com/"
+               }, {
+                  "date_added": "13237013752000000",
+                  "guid": "6b447f0c-ada0-49fd-83f1-5ecb95f5814a",
+                  "id": "143",
+                  "name": "Netflix Roulette: What Should I Watch? | Reelgood",
+                  "type": "url",
+                  "url": "https://reelgood.com/roulette/netflix"
+               }, {
+                  "date_added": "13237014081000000",
+                  "guid": "c1fe98a0-f40a-42a3-b401-2955c03578ae",
+                  "id": "144",
+                  "name": "Channel Surfer Club - Discover neat vids together",
+                  "type": "url",
+                  "url": "http://www.channelsurfer.club/"
+               }, {
+                  "date_added": "13237657647000000",
+                  "guid": "a4ac3d7a-ed3a-4e55-94c4-a6f2f4a799c8",
+                  "id": "145",
+                  "name": "Fotos de stock gratis · Pexels",
+                  "type": "url",
+                  "url": "https://www.pexels.com/es-es/"
+               }, {
+                  "date_added": "13158218411000000",
+                  "guid": "45ade39b-bfd9-4e34-ae28-7f7a0037d077",
+                  "id": "146",
+                  "name": "Sonidos mp3 Gratis. Busqueda y Descargas de ringtones gratis.",
+                  "type": "url",
+                  "url": "http://www.sonidosmp3gratis.com/"
+               }, {
+                  "date_added": "13263258998863017",
+                  "guid": "9ac9c492-4d37-4925-a88c-9e20261057c9",
+                  "id": "212",
+                  "name": "🥇ᐉ VictorRaulRR MODS – Las MEJORES Apps Premium ≫【2021】Spotify, WhatsApp Plus,...✅",
+                  "type": "url",
+                  "url": "https://victorraulrr.info/"
+               } ],
+               "date_added": "13251613243520012",
+               "date_modified": "13263259008062741",
+               "guid": "b3fcfd8a-23a0-488e-8243-ad04177902c2",
+               "id": "137",
+               "name": "Multimedia",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13237012421000000",
+                  "guid": "4c0d4469-23fa-41d5-a9e3-9f4e41261d61",
+                  "id": "148",
+                  "name": "Learn to Code - for Free | Codecademy",
+                  "type": "url",
+                  "url": "https://www.codecademy.com/"
+               }, {
+                  "date_added": "13237012450000000",
+                  "guid": "1adad69f-ec56-4e46-80d8-18c741cd0e09",
+                  "id": "149",
+                  "name": "Learn to code at home | freeCodeCamp.org",
+                  "type": "url",
+                  "url": "https://www.freecodecamp.org/"
+               }, {
+                  "date_added": "13237012497000000",
+                  "guid": "6cd72206-348b-4384-8886-efcedb5668e2",
+                  "id": "150",
+                  "name": "Learn X in Y Minutes: Scenic Programming Language Tours",
+                  "type": "url",
+                  "url": "https://learnxinyminutes.com/"
+               }, {
+                  "date_added": "13237012517000000",
+                  "guid": "29f27848-5088-4097-9725-3cafa44a7bbd",
+                  "id": "151",
+                  "name": "Achieve mastery through challenge | Codewars",
+                  "type": "url",
+                  "url": "https://www.codewars.com/"
+               }, {
+                  "date_added": "13237012537000000",
+                  "guid": "40c5c55d-af31-49a6-8332-1da8899dae8e",
+                  "id": "152",
+                  "name": "edX | Free Online Courses by Harvard, MIT, & more | edX",
+                  "type": "url",
+                  "url": "https://www.edx.org/"
+               }, {
+                  "date_added": "13237012596000000",
+                  "guid": "f045a2df-7bc6-4dbd-b48a-de981d059a34",
+                  "id": "153",
+                  "name": "LeetCode - The World's Leading Online Programming Learning Platform",
+                  "type": "url",
+                  "url": "https://leetcode.com/"
+               }, {
+                  "date_added": "13237012600000000",
+                  "guid": "7a2fac15-f28b-49a9-8be4-e454c8bcef9d",
+                  "id": "154",
+                  "name": "Coursera | Build Skills with Online Courses from Top Institutions",
+                  "type": "url",
+                  "url": "https://www.coursera.org/"
+               }, {
+                  "date_added": "13247811956000000",
+                  "guid": "9c73d25d-9969-499d-a4e7-d03f5aabf2f6",
+                  "id": "155",
+                  "name": "gitignore.io - Create Useful .gitignore Files For Your Project",
+                  "type": "url",
+                  "url": "https://www.toptal.com/developers/gitignore"
+               }, {
+                  "date_added": "13248239385000000",
+                  "guid": "6020bd14-63b6-459f-995a-5e2a6cbd3d2a",
+                  "id": "156",
+                  "name": "Regex Password Validation Solutions | Codewars",
+                  "type": "url",
+                  "url": "https://www.codewars.com/kata/52e1476c8147a7547a000811/solutions"
+               } ],
+               "date_added": "13251613243520177",
+               "date_modified": "0",
+               "guid": "2af52b83-b7d1-4a46-b448-b91dba65d8c1",
+               "id": "147",
+               "name": "Programacion",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13237012996000000",
+                  "guid": "d6d4af5f-312c-4175-a50d-3cd49029fc24",
+                  "id": "158",
+                  "name": "Brainly.com - For students. By students.",
+                  "type": "url",
+                  "url": "https://brainly.com/"
+               }, {
+                  "date_added": "13237013054000000",
+                  "guid": "f96c6b14-5883-4f48-90a5-83b5a9bd9bd6",
+                  "id": "159",
+                  "name": "Resoomer | Resumidor para hacer un resumen automático de texto en línea",
+                  "type": "url",
+                  "url": "https://resoomer.com/es/"
+               } ],
+               "date_added": "13251613243520378",
+               "date_modified": "0",
+               "guid": "e785f574-c5d9-4169-9259-3a735c12a2f0",
+               "id": "157",
+               "name": "Enseñanza",
+               "type": "folder"
+            }, {
+               "date_added": "13231872117000000",
+               "guid": "76800fef-afb8-474c-8c34-8ea1825f5faa",
+               "id": "160",
+               "name": "Enseña desde casa",
+               "type": "url",
+               "url": "https://teachfromhome.google/intl/es-419/?utm_source=google&utm_medium=HPP&utm_campaign=TFH_SPLA"
+            }, {
+               "date_added": "13232143022000000",
+               "guid": "570e06a5-1424-4578-bf92-c199eba110a8",
+               "id": "161",
+               "name": "Google Académico",
+               "type": "url",
+               "url": "https://scholar.google.com/"
+            }, {
+               "date_added": "13232504034000000",
+               "guid": "af1276de-00b2-499e-bb4c-c848789cfb7f",
+               "id": "162",
+               "name": "Library Genesis",
+               "type": "url",
+               "url": "http://gen.lib.rus.ec/"
+            }, {
+               "date_added": "13232516675000000",
+               "guid": "32a17dd2-289e-4e8c-a57a-944dd4636045",
+               "id": "163",
+               "name": "MyAirBridge.com | Envíe o comparta despachos grandes hasta la magnitud de 20 GiB, gratuitamente",
+               "type": "url",
+               "url": "https://www.myairbridge.com/es/"
+            }, {
+               "date_added": "13232516691000000",
+               "guid": "821aab8b-71df-4cd9-bb31-f4c6df8c8fea",
+               "id": "164",
+               "name": "Enviar Archivos Grandes - Compartir Archivos - TransferNow",
+               "type": "url",
+               "url": "https://www.transfernow.net/es/"
+            }, {
+               "date_added": "13237014160000000",
+               "guid": "78d34901-52db-4ec1-a8f7-233c0e248ffd",
+               "id": "165",
+               "name": "Wayback Machine",
+               "type": "url",
+               "url": "http://web.archive.org/"
+            }, {
+               "date_added": "13237014217000000",
+               "guid": "fee70f01-0435-4c79-99cf-1f355059830f",
+               "id": "166",
+               "name": "Fútbol Libre TV",
+               "type": "url",
+               "url": "https://futbollibre.online/es/"
+            }, {
+               "date_added": "13237014397000000",
+               "guid": "fdb943ee-8046-41ed-a9c5-54948ccbd844",
+               "id": "167",
+               "name": "Calculate your total time spent watching TV shows",
+               "type": "url",
+               "url": "https://tiii.me/"
+            }, {
+               "date_added": "13237165722000000",
+               "guid": "ffbf84b9-3c0e-4776-b672-be16aa1cde65",
+               "id": "168",
+               "name": "Descargar videos de Facebook online - Facebook Video Downloader",
+               "type": "url",
+               "url": "https://es.savefrom.net/9-how-to-download-facebook-video.html"
+            }, {
+               "date_added": "13237694198000000",
+               "guid": "95afa039-9d69-4299-8938-2ee67204f8c2",
+               "id": "169",
+               "name": "WhatTheFont! « MyFonts",
+               "type": "url",
+               "url": "https://www.myfonts.com/WhatTheFont/"
+            }, {
+               "date_added": "13248678669000000",
+               "guid": "dc3ba47b-5e0e-45c4-a012-7bbe12ad3bc4",
+               "id": "170",
+               "name": "EmuOS",
+               "type": "url",
+               "url": "https://emupedia.net/beta/emuos/"
+            }, {
+               "date_added": "13248678994000000",
+               "guid": "f9fbad77-54f6-407f-be25-8524413cdd11",
+               "id": "171",
+               "name": "Welcome Soap2day",
+               "type": "url",
+               "url": "https://soapgate.org/"
+            } ],
+            "date_added": "13251613243519584",
+            "date_modified": "0",
+            "guid": "4e85f57d-bc90-47b0-898c-f3d51fa99752",
+            "id": "119",
+            "name": "Recursos",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13245627949000000",
+                  "guid": "e95bba13-3c89-4279-832f-e085ccfa6d0b",
+                  "id": "174",
+                  "name": "Juegos de memoria en línea para niños sobre los colores",
+                  "type": "url",
+                  "url": "https://www.memo-juegos.com/juegos-de-memoria-online/ninos/juego-ninos-de-8-anos/juego-de-memoria-de-colores-ninos"
+               }, {
+                  "date_added": "13245627939000000",
+                  "guid": "44ff2d9d-cb64-4842-8b24-14cb33bdcd0f",
+                  "id": "175",
+                  "name": "Juego Memoria o Memorama niños - Los Simpsons | Online y gratis",
+                  "type": "url",
+                  "url": "https://www.memo-juegos.com/juegos-de-memoria-online/ninos/juego-ninos-de-8-anos/memory-los-simpsons"
+               }, {
+                  "date_added": "13245627928000000",
+                  "guid": "f4c317bf-65e9-4d22-83e2-3f5ddedbe425",
+                  "id": "176",
+                  "name": "Juego Memoria o Memorama niños - Minecraft | Online y gratis",
+                  "type": "url",
+                  "url": "https://www.memo-juegos.com/juegos-de-memoria-online/ninos/juego-ninos-de-8-anos/memory-minecraft"
+               }, {
+                  "date_added": "13245627904000000",
+                  "guid": "ee47eeb6-6322-4126-8e02-223db77aad12",
+                  "id": "177",
+                  "name": "Juego Memoria o Memorama niños - Spiderman | Online y gratis",
+                  "type": "url",
+                  "url": "https://www.memo-juegos.com/juegos-de-memoria-online/ninos/juego-ninos-de-8-anos/memory-de-spiderman-online"
+               }, {
+                  "date_added": "13239552651000000",
+                  "guid": "ac2ca824-6c3e-48d0-8538-0dcf901f7048",
+                  "id": "178",
+                  "name": "Juego Memoria o Memorama niños - Frozen 2 | Online y gratis",
+                  "type": "url",
+                  "url": "https://www.memo-juegos.com/juegos-de-memoria-online/ninos/juego-ninos-de-8-anos/memory-frozen-2"
+               }, {
+                  "date_added": "13239552647000000",
+                  "guid": "f68f6839-af4e-45bb-9551-a4e7887ca32f",
+                  "id": "179",
+                  "name": "Juego Memoria o Memorama niños - Buscando a nemo | Online y gratis",
+                  "type": "url",
+                  "url": "https://www.memo-juegos.com/juegos-de-memoria-online/ninos/juego-ninos-de-8-anos/buscando-a-nemo"
+               }, {
+                  "date_added": "13245627433000000",
+                  "guid": "99145542-6595-4f0e-bcab-86002d83d0d9",
+                  "id": "180",
+                  "name": "Fluky",
+                  "type": "url",
+                  "url": "http://fluky.io/?things=Hombre%20que%20denominan%20padre%20de%20la%20fe%20,Cu%C3%A1ntos%20son%20los%20mandamientos%20que%20hay%20en%20%C3%A9xodo%2020?%20,C%C3%B3mo%20se%20llama%20el%20hombre%20que%20entr%C3%B3%20a%20una%20barco%20con%20animales?%20,Hombre%20que%20entr%C3%B3%20en%20la%20panza%20de%20una%20ballena%20,Hombre%20que%20ten%C3%ADa%20mucha%20fuerza%20hasta%20que%20le%20cortaron%20el%20pelo%20,Primer%20mujer%20de%20la%20tierra%20,Rey%20que%20de%20peque%C3%B1o%20era%20pastor%20de%20ovejas,Hombre%20que%20muri%C3%B3%20en%20la%20cruz%20por%20amor,Cu%C3%A1ntos%20libros%20tiene%20el%20antiguo%20testamento?,Primer%20hombre%20de%20la%20tierra%20,Cu%C3%A1ntos%20libros%20tiene%20el%20huevo%20testamento?,Nombre%20los%20primeros%20hermanos%20en%20la%20tierra,Cu%C3%A1ntos%20disc%C3%ADpulos%20estuvieron%20con%20Jes%C3%BAs?,Nombre%20de%20pareja%20que%20se%20convirtieron%20en%20estatuas%20de%20sal%20,Cu%C3%A1ntos%20libros%20hay%20en%20la%20biblia?%20,En%20que%20vers%C3%ADculo%20est%C3%A1%20el%20mandamiento%20n%C3%BAmero%208?%20,C%C3%B3mo%20se%20denomina%20a%20los%20primeros%205%20libros%20de%20la%20biblia?,Cu%C3%A1ntos%20salmos%20hay%20en%20la%20Biblia?%20,Nombre%20del%20primer%20libro%20de%20la%20Biblia,Nombre%20del%20%C3%BAltimo%20libro%20de%20la%20biblia"
+               } ],
+               "date_added": "13251613243520752",
+               "date_modified": "0",
+               "guid": "9bcde259-5cc3-4f48-a7c5-c714aa34e538",
+               "id": "173",
+               "name": "Juegos Zoom",
+               "type": "folder"
+            }, {
+               "date_added": "13245652264000000",
+               "guid": "ef73a815-2f4f-48c2-9cc8-37b88e3f3293",
+               "id": "181",
+               "name": "Biblia para Niños » Historias Bíblicas Gratuitas para Bajar",
+               "type": "url",
+               "url": "https://www.bibleforchildren.org/languages/spanish/stories.php"
+            }, {
+               "date_added": "13245603759000000",
+               "guid": "cda3124e-b6b4-4943-b19d-cf9cebe3e5b1",
+               "id": "182",
+               "name": "Coronavirus: Juegos educativos gratis y online para niños | RTVE",
+               "type": "url",
+               "url": "https://www.rtve.es/television/20200316/juegos-gratis-online-educativos-para-ninos-peppa-pig-simon-bing/2010180.shtml"
+            }, {
+               "date_added": "13245603225000000",
+               "guid": "143287c3-6ba8-43e8-abad-fd9bb8443c2a",
+               "id": "183",
+               "name": "Printable Scavenger Hunt Wizard - Treasure Run",
+               "type": "url",
+               "url": "https://www.treasure.run/"
+            }, {
+               "date_added": "13243141262000000",
+               "guid": "7d12e08d-3fcb-4913-9039-626bb172a00a",
+               "id": "184",
+               "name": "Sortea2 - Realizar un sorteo",
+               "type": "url",
+               "url": "https://www.sortea2.com/sorteos"
+            }, {
+               "date_added": "13241299704000000",
+               "guid": "8be174d6-fb1e-4661-a889-33ff21d69743",
+               "id": "185",
+               "name": "Clases en Casa :: Municipio de Bahía Blanca",
+               "type": "url",
+               "url": "https://clasesencasa.bahia.gob.ar/"
+            }, {
+               "date_added": "13229670026000000",
+               "guid": "09a29220-72fd-401a-bddf-520a18dd58e2",
+               "id": "186",
+               "name": "Ideas para Iglesias",
+               "type": "url",
+               "url": "https://www.facebook.com/groups/494794174244900/"
+            }, {
+               "date_added": "13240423572000000",
+               "guid": "50f32616-daaa-4cba-b9e2-4ced99cd4515",
+               "id": "187",
+               "name": "Obra día del niño - Super Fuerte - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=sgvxQQSy0W0"
+            }, {
+               "date_added": "13233426582000000",
+               "guid": "cefd29b1-9fb3-4d72-bd88-5413b9d9e9c0",
+               "id": "188",
+               "name": "Educaplay: Actividades educativas gratuitas",
+               "type": "url",
+               "url": "https://es.educaplay.com/"
+            }, {
+               "date_added": "13234753478000000",
+               "guid": "43ba0f95-f3fd-413d-95e5-ff67bdd34304",
+               "id": "189",
+               "name": "https://arbolabc.com",
+               "type": "url",
+               "url": "https://arbolabc.com/"
+            }, {
+               "date_added": "13234754616000000",
+               "guid": "94e6749f-a995-4c04-b3c3-0393feae7917",
+               "id": "190",
+               "name": "Pilas Bloques",
+               "type": "url",
+               "url": "http://pilasbloques.program.ar/"
+            }, {
+               "date_added": "13235023688000000",
+               "guid": "bbfd88a0-69ea-445d-a20e-8dabfb3701d0",
+               "id": "191",
+               "name": "Juegos Educativos para niños - Aplicaciones en Google Play",
+               "type": "url",
+               "url": "https://play.google.com/store/apps/details?id=com.appquiz.educational.games&hl=es"
+            }, {
+               "date_added": "13235023694000000",
+               "guid": "acf68ec3-a06c-4498-9cd3-954d552511d5",
+               "id": "192",
+               "name": "Juegos para niños de 2-5 años - Aplicaciones en Google Play",
+               "type": "url",
+               "url": "https://play.google.com/store/apps/details?id=com.bimiboo.playandlearn&hl=es"
+            }, {
+               "date_added": "13245601325000000",
+               "guid": "cb318851-28c6-40ac-be79-9bf8d567f78c",
+               "id": "193",
+               "name": "JUEGO RULETA ZOOM - Rueda del azar",
+               "type": "url",
+               "url": "https://wordwall.net/es/resource/2498441/juego-ruleta-zoom"
+            }, {
+               "date_added": "13237662029000000",
+               "guid": "4e893268-7e71-4e6a-bea2-ffcd735e61a9",
+               "id": "194",
+               "name": "Juegos de niños, infantiles e interactivos de Pocoyo",
+               "type": "url",
+               "url": "https://www.pocoyo.com/juegos-ninos/infantiles"
+            } ],
+            "date_added": "13251613243520615",
+            "date_modified": "0",
+            "guid": "fb6b0a52-1d77-48fb-a898-e4920e09b83e",
+            "id": "172",
+            "name": "Actividades HDJ",
+            "type": "folder"
+         }, {
+            "date_added": "13247962306000000",
+            "guid": "46aa8248-cc72-43a0-bbcb-f54279521bbe",
+            "id": "195",
+            "name": "MEGA",
+            "type": "url",
+            "url": "https://mega.nz/folder/1MVCTS6Z#4_ZGKyIYM5P2RmUhWQN2pA/folder/YRtnhIZS"
+         }, {
+            "date_added": "13251009614000000",
+            "guid": "6950f5c2-5f0f-46f2-93b2-cac3323eb898",
+            "id": "196",
+            "name": "Tvbox se queda en el logo, tvbox no inicia, tvbox no arranca, SOLUCIONADO - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=oBdEQ7wYWE8"
+         }, {
+            "date_added": "13261024536571010",
+            "guid": "b8fec939-d7e4-4642-983b-6d5cc0fe2f90",
+            "id": "204",
+            "name": "Área personal",
+            "type": "url",
+            "url": "https://aulavirtual.frbb.utn.edu.ar/my/"
+         } ],
+         "date_added": "13251612989074507",
+         "date_modified": "13262585296254842",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Marcadores",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13263195482410384",
+            "guid": "683e0b8a-29f4-43b8-9994-8b0055eb1b0f",
+            "id": "210",
+            "name": "Copy of Orange Is The New Black NF (Completa) - Google Drive",
+            "type": "url",
+            "url": "https://drive.google.com/drive/folders/1r-LLvXR9OzYRyKeKXBf8L-2-jzgAfeTi"
+         } ],
+         "date_added": "13251612989074515",
+         "date_modified": "13263258998863017",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Otros marcadores",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13251612989074516",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Marcadores del móvil",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
