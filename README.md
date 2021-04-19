@@ -28,3 +28,5 @@ wrote a little guide to important post-installation configs.
 # After that
 This repository files are config files of differente programs. It depends where you installed it,
 but mostly, you can use the same directory like here to copy them.
+
+The only thing you must change is user name. In my case is "joele". Sure yours is different.
