@@ -11,7 +11,7 @@ wrote a little guide to important post-installation configs.
 5. Install [Git](https://gitforwindows.org/).
 6. Install [Station](https://stationhq.com/).
 7. Install [Keypirinha + Everything](https://keypirinha.com/install.html).
-8. Install [XtremeeDownloadManager](https://xtremedownloadmanager.com/).
+8. Install [XtremeDownloadManager](https://xtremedownloadmanager.com/).
 9. Install [Python](https://www.python.org/downloads/).
 10. Install [Pip](https://bootstrap.pypa.io/get-pip.py).
 11. Install [Choco Package Manager](https://chocolatey.org/install).
