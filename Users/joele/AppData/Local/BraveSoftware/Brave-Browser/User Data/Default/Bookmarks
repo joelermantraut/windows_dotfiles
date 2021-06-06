@@ -1,5 +1,5 @@
 {
-   "checksum": "3c878873eb6462cda68fb66740261552",
+   "checksum": "c8ab76bbb989cdda96621d75e80f5a90",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -55,20 +55,6 @@
                "type": "folder"
             }, {
                "children": [ {
-                  "date_added": "13246469913000000",
-                  "guid": "1f689c4a-3e48-4fb4-b8fe-3f523dd629cd",
-                  "id": "31",
-                  "name": "Mediciones Definitivas - Hojas de cálculo de Google",
-                  "type": "url",
-                  "url": "https://docs.google.com/spreadsheets/d/1Cdju3sT-J9Fhat3SkRYNWmrxg7AqCkNQ98GxwH_6mws/edit#gid=0"
-               }, {
-                  "date_added": "13245903459000000",
-                  "guid": "4a1f3138-f8fb-4c5a-92f4-9b253564f740",
-                  "id": "32",
-                  "name": "Numpy vs OR-tools (1 BIN).ipynb - Colaboratory",
-                  "type": "url",
-                  "url": "https://colab.research.google.com/drive/1O-SQ-cd6wrWcQKnQO_jcUnD7XMNRAdq5#scrollTo=IybgcZc6QEZj"
-               }, {
                   "date_added": "13241623176000000",
                   "guid": "370ce21d-32c2-494b-a5fd-1ad39898da8a",
                   "id": "33",
@@ -97,44 +83,36 @@
                   "type": "url",
                   "url": "https://github.com/BHI-Research/PSO-JAX"
                }, {
-                  "children": [ {
-                     "date_added": "13248297150000000",
-                     "guid": "18352bcd-8d65-4b18-a6d0-43089c72398e",
-                     "id": "38",
-                     "name": "How JAX primitives work.ipynb - Colaboratory",
-                     "type": "url",
-                     "url": "https://colab.research.google.com/github/google/jax/blob/master/docs/notebooks/How_JAX_primitives_work.ipynb#scrollTo=tbOF0LB0EMne"
-                  }, {
-                     "date_added": "13248747425000000",
-                     "guid": "657c57f3-1c6f-45b0-a66b-cf05b5615ad3",
-                     "id": "39",
-                     "name": "jax.lax package — JAX documentation",
-                     "type": "url",
-                     "url": "https://jax.readthedocs.io/en/latest/jax.lax.html#parallel-operators"
-                  }, {
-                     "date_added": "13249065059000000",
-                     "guid": "417aa611-bbde-479c-8786-eb5b00afc787",
-                     "id": "40",
-                     "name": "Pmap Cookbook - Colaboratory",
-                     "type": "url",
-                     "url": "https://colab.research.google.com/github/google/jax/blob/master/cloud_tpu_colabs/Pmap_Cookbook.ipynb"
-                  } ],
-                  "date_added": "13251613243517559",
-                  "date_modified": "0",
-                  "guid": "4f06bafc-b02f-4bda-8322-7921eb815648",
-                  "id": "37",
-                  "name": "Paralelización",
-                  "type": "folder"
-               }, {
                   "date_added": "13250641073000000",
                   "guid": "b4b22a0c-7e5c-4152-af84-850e549a95a2",
                   "id": "41",
                   "name": "Efficient and Effective Practical Algorithms for the Set-Covering Problem Qi Yang, Jamie McPeek, Adam Nofsinger Department of Computer Science and Software. - ppt download",
                   "type": "url",
                   "url": "https://slideplayer.com/slide/6377863/"
+               }, {
+                  "date_added": "13264548163713332",
+                  "guid": "08ceefb6-c3a0-44a9-8eea-960da002c611",
+                  "id": "224",
+                  "name": "sklearn.neural_network.MLPRegressor — scikit-learn 0.24.2 documentation",
+                  "type": "url",
+                  "url": "https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPRegressor.html"
+               }, {
+                  "date_added": "13264548168161269",
+                  "guid": "dd5883bd-3c5b-41a1-bbd8-4abf278f3956",
+                  "id": "225",
+                  "name": "Advanced Plotting With Partial Dependence — scikit-learn 0.24.2 documentation",
+                  "type": "url",
+                  "url": "https://scikit-learn.org/stable/auto_examples/miscellaneous/plot_partial_dependence_visualization_api.html#sphx-glr-auto-examples-miscellaneous-plot-partial-dependence-visualization-api-py"
+               }, {
+                  "date_added": "13265767135825866",
+                  "guid": "057000ad-29fc-41f1-9931-11f6825e011d",
+                  "id": "231",
+                  "name": "3.2. Tuning the hyper-parameters of an estimator — scikit-learn 0.24.2 documentation",
+                  "type": "url",
+                  "url": "https://scikit-learn.org/stable/modules/grid_search.html"
                } ],
                "date_added": "13251613243517415",
-               "date_modified": "0",
+               "date_modified": "13266520418881855",
                "guid": "5bfc75b4-cc31-449e-9604-4907846b20bd",
                "id": "30",
                "name": "Investigacion",
@@ -184,6 +162,13 @@
                "type": "url",
                "url": "http://www.frbb.utn.edu.ar/aulavirtual/"
             }, {
+               "date_added": "13261024536571010",
+               "guid": "b8fec939-d7e4-4642-983b-6d5cc0fe2f90",
+               "id": "204",
+               "name": "Área personal",
+               "type": "url",
+               "url": "https://aulavirtual.frbb.utn.edu.ar/my/"
+            }, {
                "date_added": "13143844128000000",
                "guid": "774e1c09-5b90-4976-a913-19409f43e092",
                "id": "46",
@@ -204,9 +189,37 @@
                "name": "Comprender FFTs y Funciones Ventana - NI",
                "type": "url",
                "url": "https://www.ni.com/es-cr/innovations/white-papers/06/understanding-ffts-and-windowing.html"
+            }, {
+               "date_added": "13263501050105594",
+               "guid": "a121e292-b0b6-462b-a332-7f1e5f1330cc",
+               "id": "220",
+               "name": "Fast AI Video Viewer",
+               "type": "url",
+               "url": "https://course.fast.ai/videos/?lesson=7"
+            }, {
+               "date_added": "13264172061637865",
+               "guid": "e9035e13-1767-4c45-ad8e-b8051be0dad1",
+               "id": "222",
+               "name": "7-Segment Display Driver for Multiple Digits (VHDL) - eewiki / Logic - Engineering and Component Solution Forum - TechForum │ Digi-Key",
+               "type": "url",
+               "url": "https://forum.digikey.com/t/7-segment-display-driver-for-multiple-digits-vhdl/12526"
+            }, {
+               "date_added": "13265256641314798",
+               "guid": "84f47848-2a64-4640-9030-2b4a0f42b811",
+               "id": "229",
+               "name": "Bancos de prueba",
+               "type": "url",
+               "url": "http://fpgalibre.sourceforge.net/testbenches/index.html"
+            }, {
+               "date_added": "13266544519563714",
+               "guid": "c2b795ee-8cc2-46fa-afe2-6752fb2ea590",
+               "id": "235",
+               "name": "Solucionario capitulo 3 redes de computadores un enfoque descendente 7ma edicion - Redes - Stuvia",
+               "type": "url",
+               "url": "https://www.stuvia.es/doc/1005030/solucionario-capitulo-3-redes-de-computadores-un-enfoque-descendente-7ma-edicion"
             } ],
             "date_added": "13251613243516616",
-            "date_modified": "13263339602527204",
+            "date_modified": "13266544521499317",
             "guid": "7a5fb23f-dfc4-4750-b30e-3df6735fcd28",
             "id": "5",
             "name": "UTN",
@@ -1277,43 +1290,72 @@
             "name": "Actividades HDJ",
             "type": "folder"
          }, {
+            "children": [ {
+               "date_added": "13263405687441064",
+               "guid": "23c0b786-efba-446e-892e-12564b3caca7",
+               "id": "215",
+               "name": "Planificaciones 2021 - Google Drive",
+               "type": "url",
+               "url": "https://drive.google.com/drive/folders/1l_KEOcHwbBRUVlBom0umGPzbMVeviYoE"
+            }, {
+               "date_added": "13263405697280980",
+               "guid": "421b900f-f79f-4699-a468-55fddf7c907b",
+               "id": "216",
+               "name": "1º PDS 2021 Secundario",
+               "type": "url",
+               "url": "https://classroom.google.com/u/0/c/Mjc2NzYyMTgyNjQ5"
+            }, {
+               "date_added": "13263405701657015",
+               "guid": "bbc56bfa-c752-4603-84fd-35e21e4c7ac8",
+               "id": "217",
+               "name": "2º PDS 2021 Secundario",
+               "type": "url",
+               "url": "https://classroom.google.com/u/0/c/Mjc2NzYzMzI3MDQ5"
+            }, {
+               "date_added": "13263407363449102",
+               "guid": "ab3ade22-c73e-4940-bc5f-1a2696d27761",
+               "id": "218",
+               "name": "Program.AR",
+               "type": "url",
+               "url": "https://program.ar/"
+            }, {
+               "date_added": "13264733042549977",
+               "guid": "dbdb99d4-135f-41ae-b211-9a9bdb558271",
+               "id": "227",
+               "name": "FireBoy and WaterGirl remix on Scratch",
+               "type": "url",
+               "url": "https://scratch.mit.edu/projects/15861951/editor/"
+            }, {
+               "date_added": "13266520418881855",
+               "guid": "093f4761-5a3d-4698-b503-99c4bcadeab4",
+               "id": "233",
+               "name": "50 secretos y trucos de Word",
+               "type": "url",
+               "url": "https://www.adslzone.net/word/50-trucos-secretos"
+            } ],
+            "date_added": "13263404331352298",
+            "date_modified": "13266544519563714",
+            "guid": "d3d4c61d-509d-42a1-8bfc-cfda76bf4820",
+            "id": "214",
+            "name": "Colegio",
+            "type": "folder"
+         }, {
             "date_added": "13247962306000000",
             "guid": "46aa8248-cc72-43a0-bbcb-f54279521bbe",
             "id": "195",
             "name": "MEGA",
             "type": "url",
             "url": "https://mega.nz/folder/1MVCTS6Z#4_ZGKyIYM5P2RmUhWQN2pA/folder/YRtnhIZS"
-         }, {
-            "date_added": "13251009614000000",
-            "guid": "6950f5c2-5f0f-46f2-93b2-cac3323eb898",
-            "id": "196",
-            "name": "Tvbox se queda en el logo, tvbox no inicia, tvbox no arranca, SOLUCIONADO - YouTube",
-            "type": "url",
-            "url": "https://www.youtube.com/watch?v=oBdEQ7wYWE8"
-         }, {
-            "date_added": "13261024536571010",
-            "guid": "b8fec939-d7e4-4642-983b-6d5cc0fe2f90",
-            "id": "204",
-            "name": "Área personal",
-            "type": "url",
-            "url": "https://aulavirtual.frbb.utn.edu.ar/my/"
          } ],
          "date_added": "13251612989074507",
-         "date_modified": "13262585296254842",
+         "date_modified": "13263791849013080",
          "guid": "00000000-0000-4000-a000-000000000002",
          "id": "1",
          "name": "Marcadores",
          "type": "folder"
       },
       "other": {
-         "children": [ {
-            "date_added": "13263195482410384",
-            "guid": "683e0b8a-29f4-43b8-9994-8b0055eb1b0f",
-            "id": "210",
-            "name": "Copy of Orange Is The New Black NF (Completa) - Google Drive",
-            "type": "url",
-            "url": "https://drive.google.com/drive/folders/1r-LLvXR9OzYRyKeKXBf8L-2-jzgAfeTi"
-         } ],
+         "children": [  ],
          "date_added": "13251612989074515",
          "date_modified": "13263258998863017",
          "guid": "00000000-0000-4000-a000-000000000003",
