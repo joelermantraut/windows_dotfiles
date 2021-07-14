@@ -10,19 +10,18 @@ wrote a little guide to important post-installation configs.
 4. Install [Choco Package Manager](https://chocolatey.org/install).
 5. Install [JetBrains Mono Font](https://github.com/JetBrains/JetBrainsMono).
 6. Install [Git](https://gitforwindows.org/).
-7. Install [Keypirinha + Everything](https://keypirinha.com/install.html).
+7. Install [Keypirinha](https://keypirinha.com/install.html) + [Everything](https://www.voidtools.com/es-es/).
 8. Install [XtremeDownloadManager](https://xtremedownloadmanager.com/).
 9. Install [Python](https://www.python.org/downloads/).
-10. Install [Pip](https://phoenixnap.com/kb/install-pip-windows#ftoc-heading-2).
 11. Install [Gopass](https://www.gopass.pw/).
-12. Install [GPG](https://www.phildev.net/pgp/gpginstall).
-13. Copy GPG Key, and downloads or copy passwords folder.
-14. [Config Gopass to use already copied password folder](https://github.com/gopasspw/gopass/blob/master/docs/setup.md#new-password-store-with-git).
+11. Install [GPG](https://www.phildev.net/pgp/gpginstall).
+12. Copy GPG Key, and downloads or copy passwords folder.
+13. [Config Gopass to use already copied password folder](https://github.com/gopasspw/gopass/blob/master/docs/setup.md#new-password-store-with-git).
   - Copy GPG Key.
   - Clone password repository.
   - >gopass init
   - >gopass config path "password_folder_path"
-15. [Install SSH client](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html).
+14. [Install SSH client](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html).
 
 # After that
 This repository files are config files of differente programs. It depends where you installed it,
