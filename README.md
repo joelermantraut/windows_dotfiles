@@ -14,7 +14,7 @@ wrote a little guide to important post-installation configs.
 8. Install [XtremeDownloadManager](https://xtremedownloadmanager.com/).
 9. Install [Python](https://www.python.org/downloads/).
 11. Install [Gopass](https://www.gopass.pw/).
-11. Install [GPG](https://www.phildev.net/pgp/gpginstall).
+11. Install [GPG](https://www.phildev.net/pgp/gpginstall#windows).
 12. Copy GPG Key, and downloads or copy passwords folder.
 13. [Config Gopass to use already copied password folder](https://github.com/gopasspw/gopass/blob/master/docs/setup.md#new-password-store-with-git).
   - Copy GPG Key.
